@@ -43,14 +43,14 @@ alt="cplusplus" width="50" hspace="5" height="50" />
 
 <h3> Connect with Me :</h3>
 
-   <a href="https://www.linkedin.com/in/a-p-dhyaneswaran-873319197/">
+   <a href="https://www.linkedin.com/in/imrohityadav/">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
 
-   <a href="https://github.com/DenC16">
+   <a href="https://github.com/only-rohit">
         <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-   <a href="mailto:dhyanraj16@gmail.com">
+   <a href="mailto:onlyrohityadav@gmail.com">
         <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
       </a>
 </p>
